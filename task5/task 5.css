@@ -1,0 +1,38 @@
+body{
+
+
+background-image:linear-gradient(rgba(21, 153, 105, 0.5),rgba(232, 75, 96, 0.5)), url(mobile\ shop.jpg);
+ 
+height: auto;
+width: 100%;
+
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+h1{
+
+
+
+    text-align: center;
+}
+.img{
+
+
+    display:flex;
+
+    justify-content: space-evenly;
+}
+.p1{
+
+
+    color: red;
+    font-size: large;
+}
+.p2{
+
+
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+}

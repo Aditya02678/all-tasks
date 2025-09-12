@@ -1,0 +1,46 @@
+body{
+
+
+    background-color: lightgray;
+}
+h1{
+
+
+    color: red;
+
+    text-align: center;
+}
+
+img{
+
+
+    display: block;
+
+    margin:auto;
+}
+
+.a1{
+display: block;
+text-align: center;
+font-size: small;
+font-weight: bold;
+
+}
+.p1{
+
+    text-align: center;
+
+
+
+    font-size: small;
+
+    font-weight: bold;
+}
+.p2
+{
+    text-align: center;
+    
+    font-size: small;
+
+    font-weight: bold;
+}

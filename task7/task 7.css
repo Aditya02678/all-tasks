@@ -1,0 +1,37 @@
+h1{
+color: azure;
+    text-align: center;
+
+font-style: oblique;
+
+font-weight: bolder;
+
+}
+
+body{
+
+
+    background-image:linear-gradient(rgba(21, 153, 105, 0.5),rgba(232, 75, 96, 0.5)),url(registration.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+p{
+
+
+    color:azure;
+}
+h2{
+
+
+
+    color: azure;
+}
+label{
+
+color: beige;
+
+}
+
+

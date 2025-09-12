@@ -1,0 +1,28 @@
+body{
+
+
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(179, 110, 110, 0.5)), url(academic.jpeg);
+ 
+height: 800px;
+
+
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+
+h1{
+
+
+    color:red
+
+    
+;
+
+text-align: center;
+
+
+
+}
+
+

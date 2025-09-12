@@ -1,0 +1,46 @@
+body{
+
+
+
+    background-color: rgb(198, 208, 198);
+}
+p{
+    text-align: left;
+}
+
+.p2{
+    text-align: center;
+}
+
+.p3{
+    text-align: right;
+}
+ 
+.p4{
+    color: green;
+}
+.p5{
+
+    font-style: trebuchet ms;
+}
+.p6{
+
+    font-size:35px;
+}
+.p7{
+    color: white;
+    font-style: arial;
+    font-size: small;
+}
+img{
+
+    height: 260px;
+
+    border: 10px solid black;
+
+display: block;
+margin: 0 auto 0 auto;
+
+
+}
+

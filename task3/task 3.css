@@ -1,0 +1,25 @@
+ul  {
+
+background-color: lightgrey;
+
+    display: flex;
+
+
+    justify-content: end;
+
+}
+
+
+li{
+
+margin-left: 20px;
+
+
+}
+.l1{
+
+color: blue;
+    margin-right: auto;
+
+    font-weight: bold;
+}
